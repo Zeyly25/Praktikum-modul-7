@@ -6,7 +6,7 @@ Isnanisa Rasyidah_H1H025028
 ---
 Zayyan Khairul Aziz_H1H025067
 ---
-https://www.tinkercad.com/things/7AV2Ta3SKN9-amartia/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=dDZUnebaJMyixgnRWqHaiKlvTAc5JnXFUD2RaSeVI30
+https://www.tinkercad.com/things/7AV2Ta3SKN9-praktikum-sisdig-7/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=i8ZrU6W5mvD2ujlM-HIHTM2tgaDGSDBhEVJSHp9KPh4
 ---
 
 ## 1. AND
